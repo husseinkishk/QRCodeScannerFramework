@@ -1,27 +1,21 @@
 {
   "name": "QRCodeScannerFramework",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "summary": "By far the most QRCodeScanner I have seen in my entire life. No joke.",
   "description": "This QRCodeScanner changes its color gradually makes your app look fantastic!",
-  "homepage": "https://github.com/husseinkishk/QRCodeScannerFramework.git",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
-  },
+  "homepage": "https://github.com/husseinkishk/QRCodeScannerFramework",
+  "license": "MIT",
   "authors": {
     "Hussein Kishk": "hussein.kishk@code95.info"
   },
-  "source": {
-    "path": "/Users/hussein/Desktop/Developer"
-  },
-  "source_files": "QRCodeScannerFramework/*",
-  "pod_target_xcconfig": {
-    "SWIFT_VERSION": "3"
-  },
   "platforms": {
-    "osx": null,
-    "ios": null,
-    "tvos": null,
-    "watchos": null
-  }
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/husseinkishk/QRCodeScannerFramework.git",
+    "tag": "1.0.1"
+  },
+  "swift_version": "4.0",
+  "source_files": "QRCodeScannerFramework/*",
+  "exclude_files": "Classes/Exclude"
 }

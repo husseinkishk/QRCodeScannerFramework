@@ -6,6 +6,6 @@ target 'QRScannerExample' do
   use_frameworks!
 
   # Pods for QRScannerExample
-pod 'QRCodeScannerFramework', :git => 'https://github.com/husseinkishk/QRCodeScannerFramework.git', :tag => '1.0.0'
+pod 'QRCodeScannerFramework', :git => 'https://github.com/husseinkishk/QRCodeScannerFramework.git', :tag => '1.0.2'
 
 end

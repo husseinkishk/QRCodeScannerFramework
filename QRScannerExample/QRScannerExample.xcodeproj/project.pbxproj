@@ -100,7 +100,6 @@
 				D765F4D52061515F00AA724B /* Frameworks */,
 				D765F4D62061515F00AA724B /* Resources */,
 				1B003AA3D1E274CABEE26283 /* [CP] Embed Pods Frameworks */,
-				938C5781A2BD36155FA0E4AA /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -175,21 +174,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QRScannerExample/Pods-QRScannerExample-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		938C5781A2BD36155FA0E4AA /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QRScannerExample/Pods-QRScannerExample-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		9CCB23EE6C407B1C34E15784 /* [CP] Check Pods Manifest.lock */ = {

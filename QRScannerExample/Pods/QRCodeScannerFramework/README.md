@@ -5,7 +5,7 @@ Written in Swift 4.
 ## Installation Using CocoaPods
 
 ```
-pod 'QRCodeScannerFramework', :git => 'https://github.com/husseinkishk/QRCodeScannerFramework.git', :tag => '1.0.2'
+pod 'QRCodeScannerFramework', :git => 'https://github.com/husseinkishk/QRCodeScannerFramework.git', :tag => '1.0.1'
 ```
 
 ## Usage
